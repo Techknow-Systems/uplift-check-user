@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/* Increase the margins between the sections */
+.settings_page_uplift-check-user h2 {
+ 	margin: 2.5em 0 1em;
+}
+
+/* Style the text under the options fields that give more info about the option */
+.ucu_option_subtext {
+ 	color: #999;
+ 	margin: 2px 0 0 2px !important;
+ 	font-size: 13px !important;
+}
